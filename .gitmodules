@@ -1,0 +1,3 @@
+[submodule "colorize-sh"]
+	path = colorize-sh
+	url = https://github.com/mpaluru/colorize-sh.git
